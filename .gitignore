@@ -1,0 +1,7 @@
+
+*.pdb
+*.ilk
+*.exe
+*.ipch
+*.db
+.vs/Solution1/v16/.suo
